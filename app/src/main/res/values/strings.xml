@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ativ2</string>
+    <string name="titulo">Deadpool é um anti-herói do universo Marvel</string>
+    <string name="nome">Deadpool</string>
 </resources>
